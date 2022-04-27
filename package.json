@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@tmcw/togeojson": "^5.1.2",
+    "fs": "^0.0.1-security",
+    "xmldom": "^0.6.0"
+  },
+  "name": "togeojson",
+  "version": "1.0.0",
+  "main": "toGeoJSON.js",
+  "scripts": {
+    "start": "node toGeoJSON.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
